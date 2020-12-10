@@ -1,0 +1,1 @@
+cmd_/home/pi/kernelbriel/kakmodule.ko := ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/pi/kernelbriel/kakmodule.ko /home/pi/kernelbriel/kakmodule.o /home/pi/kernelbriel/kakmodule.mod.o;  true
