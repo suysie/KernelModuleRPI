@@ -1,2 +1,2 @@
-/home/pi/kernelbriel/kakmodule.o
+/home/pi/kernel/kernelbriel/kakmodule.o
 

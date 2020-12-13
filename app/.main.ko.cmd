@@ -1,0 +1,1 @@
+cmd_/home/pi/kernel/app/main.ko := ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/pi/kernel/app/main.ko /home/pi/kernel/app/main.o /home/pi/kernel/app/main.mod.o;  true
